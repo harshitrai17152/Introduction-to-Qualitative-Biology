@@ -1,4 +1,4 @@
-#Introduction to Quantitative Biology
+# Introduction-to-Quantitative-Biology
 
 This repository contains all the assignments done in Introduction to Quantitative Biology course.
 
